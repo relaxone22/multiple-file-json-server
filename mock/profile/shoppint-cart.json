@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "date": "110/03/20",
+      "orderType": "shipping",
+      "orderNum": "1234567890",
+      "total": "200,000,000",
+      "status": "cancel"
+    },
+    {
+      "date": "110/03/20",
+      "orderType": "shipping",
+      "orderNum": "1234567890",
+      "total": "200,000,000",
+      "status": "cancel"
+    }
+  ]
+}

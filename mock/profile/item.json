@@ -1,0 +1,12 @@
+{
+    "options": [
+      {
+        "value": "ADC123",
+        "displayText": "iPhone 12"
+      },
+      {
+        "value": "ADC122",
+        "displayText": "macbook"
+      }
+    ]
+  }
